@@ -1,6 +1,6 @@
 # 🧠 ChatDB  – Natural Language Financial Data Query Engine
 
-**ChatDB ** is an AI-powered system that enables users to query financial market and sentiment data using natural language. It translates plain English queries into SQL and MongoDB queries, retrieves data from multiple sources, and presents results through interactive visualizations.
+ChatDB  is an AI-powered system that enables users to query financial market and sentiment data using natural language. It translates plain English queries into SQL and MongoDB queries, retrieves data from multiple sources, and presents results through interactive visualizations.
 
 ## 🚀 Overview
 This project demonstrates how Large Language Models (LLMs) can be integrated with structured and unstructured data systems to build intuitive data access tools.
